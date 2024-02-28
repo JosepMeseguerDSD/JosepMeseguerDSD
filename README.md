@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosepMeseguerDSD
+- 👋 Hi, I’m Josep Meseguer
 - 👀 I’m interested in SW Design & Science DB's
 - 🌱 I’m currently learning SW Architectures, No/NewSQL Architectures & ...
 - 💞️ I’m looking to collaborate on amazings projects
